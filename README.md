@@ -3,7 +3,7 @@
 This repository contains my professional work and learning projects as a Java Software Developer.
 
 ## 📌 Projects Included
-- Employee Management System (Spring Boot CRUD REST API)
+- - Hospital Management System (Spring Boot CRUD REST API)
 - Core Java Practice Programs
 - SQL and JDBC Practice
 
